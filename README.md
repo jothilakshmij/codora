@@ -1,4 +1,4 @@
-# Codora - Code Screenshot
+# Codora - Code snippet editor
 
 A powerful tool for sharing code snippets with additional features. Share beautiful screenshots of your code on your social media platforms.
 
@@ -36,3 +36,8 @@ A powerful tool for sharing code snippets with additional features. Share beauti
   – Keyboard shortcuts made easy
 - [**Resizable**](https://github.com/bokuweb/react-resizable-box) – Resizable
   container component
+screenchot:
+<img width="1494" height="740" alt="image" src="https://github.com/user-attachments/assets/b33ff72a-8cac-4427-b39a-35dc8e8b1488" />
+<img width="1138" height="632" alt="image" src="https://github.com/user-attachments/assets/1e19b811-72a7-4c93-a259-abcfaa48f4e4" />
+
+
